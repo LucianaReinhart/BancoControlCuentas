@@ -1,0 +1,10 @@
+D:\c# net\c# curso nivel 2\BancoControlCuentas\BancoControlCuentas\bin\Debug\BancoControlCuentas.exe.config
+D:\c# net\c# curso nivel 2\BancoControlCuentas\BancoControlCuentas\bin\Debug\BancoControlCuentas.exe
+D:\c# net\c# curso nivel 2\BancoControlCuentas\BancoControlCuentas\bin\Debug\BancoControlCuentas.pdb
+D:\c# net\c# curso nivel 2\BancoControlCuentas\BancoControlCuentas\obj\Debug\BancoControlCuentas.csproj.AssemblyReference.cache
+D:\c# net\c# curso nivel 2\BancoControlCuentas\BancoControlCuentas\obj\Debug\BancoControlCuentas.Form1.resources
+D:\c# net\c# curso nivel 2\BancoControlCuentas\BancoControlCuentas\obj\Debug\BancoControlCuentas.Properties.Resources.resources
+D:\c# net\c# curso nivel 2\BancoControlCuentas\BancoControlCuentas\obj\Debug\BancoControlCuentas.csproj.GenerateResource.cache
+D:\c# net\c# curso nivel 2\BancoControlCuentas\BancoControlCuentas\obj\Debug\BancoControlCuentas.csproj.CoreCompileInputs.cache
+D:\c# net\c# curso nivel 2\BancoControlCuentas\BancoControlCuentas\obj\Debug\BancoControlCuentas.exe
+D:\c# net\c# curso nivel 2\BancoControlCuentas\BancoControlCuentas\obj\Debug\BancoControlCuentas.pdb
